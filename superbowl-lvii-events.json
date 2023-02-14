@@ -1,0 +1,242 @@
+[
+    {
+        "quarter": "First",
+        "minute": "10:09",
+        "team": {
+            "id": 12,
+            "name": "Philadelphia Eagles",
+            "logo": "https://media-3.api-sports.io/american-football/teams/12.png"
+        },
+        "player": {
+            "id": 830,
+            "name": "Jalen Hurts",
+            "image": "https://media-3.api-sports.io/american-football/players/830.png"
+        },
+        "type": "TD",
+        "comment": "Jalen Hurts 1 Yd Run (Jake Elliott Kick)",
+        "score": {
+            "home": 7,
+            "away": 0
+        }
+    },
+    {
+        "quarter": "First",
+        "minute": "6:57",
+        "team": {
+            "id": 17,
+            "name": "Kansas City Chiefs",
+            "logo": "https://media-3.api-sports.io/american-football/teams/17.png"
+        },
+        "player": {
+            "id": 1215,
+            "name": "Travis Kelce",
+            "image": "https://media-3.api-sports.io/american-football/players/1215.png"
+        },
+        "type": "TD",
+        "comment": "Travis Kelce 18 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+        "score": {
+            "home": 7,
+            "away": 7
+        }
+    },
+    {
+        "quarter": "Second",
+        "minute": "14:52",
+        "team": {
+            "id": 12,
+            "name": "Philadelphia Eagles",
+            "logo": "https://media-3.api-sports.io/american-football/teams/12.png"
+        },
+        "player": {
+            "id": 838,
+            "name": "A.J. Brown",
+            "image": "https://media.api-sports.io/american-football/players/838.png"
+        },
+        "type": "TD",
+        "comment": "A.J. Brown 45 Yd pass from Jalen Hurts (Jake Elliott Kick)",
+        "score": {
+            "home": 14,
+            "away": 7
+        }
+    },
+    {
+        "quarter": "Second",
+        "minute": "9:39",
+        "team": {
+            "id": 17,
+            "name": "Kansas City Chiefs",
+            "logo": "https://media-3.api-sports.io/american-football/teams/17.png"
+        },
+        "player": {
+            "id": 1236,
+            "name": "Nick Bolton",
+            "image": "https://media-3.api-sports.io/american-football/players/1236.png"
+        },
+        "type": "TD",
+        "comment": "Nick Bolton 36 Yd Fumble Return (Harrison Butker Kick)",
+        "score": {
+            "home": 14,
+            "away": 14
+        }
+    },
+    {
+        "quarter": "Second",
+        "minute": "2:20",
+        "team": {
+            "id": 12,
+            "name": "Philadelphia Eagles",
+            "logo": "https://media.api-sports.io/american-football/teams/12.png"
+        },
+        "player": {
+            "id": 830,
+            "name": "Jalen Hurts",
+            "image": "https://media-3.api-sports.io/american-football/players/830.png"
+        },
+        "type": "TD",
+        "comment": "Jalen Hurts 4 Yd Run (Jake Elliott Kick)",
+        "score": {
+            "home": 21,
+            "away": 14
+        }
+    },
+    {
+        "quarter": "Second",
+        "minute": "0:00",
+        "team": {
+            "id": 12,
+            "name": "Philadelphia Eagles",
+            "logo": "https://media.api-sports.io/american-football/teams/12.png"
+        },
+        "player": {
+            "id": 899,
+            "name": "Jake Elliott",
+            "image": "https://media-3.api-sports.io/american-football/players/899.png"
+        },
+        "type": "FG",
+        "comment": "Jake Elliott 35 Yd Field Goal",
+        "score": {
+            "home": 24,
+            "away": 14
+        }
+    },
+    {
+        "quarter": "Third",
+        "minute": "9:30",
+        "team": {
+            "id": 17,
+            "name": "Kansas City Chiefs",
+            "logo": "https://media.api-sports.io/american-football/teams/17.png"
+        },
+        "player": {
+            "id": 1202,
+            "name": "Isiah Pacheco",
+            "image": "https://media.api-sports.io/american-football/players/1202.png"
+        },
+        "type": "TD",
+        "comment": "Isiah Pacheco 1 Yd Run (Harrison Butker Kick)",
+        "score": {
+            "home": 24,
+            "away": 21
+        }
+    },
+    {
+        "quarter": "Third",
+        "minute": "1:45",
+        "team": {
+            "id": 12,
+            "name": "Philadelphia Eagles",
+            "logo": "https://media.api-sports.io/american-football/teams/12.png"
+        },
+        "player": {
+            "id": 899,
+            "name": "Jake Elliott",
+            "image": "https://media-3.api-sports.io/american-football/players/899.png"
+        },
+        "type": "FG",
+        "comment": "Jake Elliott 33 Yd Field Goal",
+        "score": {
+            "home": 27,
+            "away": 21
+        }
+    },
+    {
+        "quarter": "Fourth",
+        "minute": "12:04",
+        "team": {
+            "id": 17,
+            "name": "Kansas City Chiefs",
+            "logo": "https://media.api-sports.io/american-football/teams/17.png"
+        },
+        "player": {
+            "id": 235,
+            "name": "Kadarius Toney",
+            "image": "https://media-3.api-sports.io/american-football/players/235.png"
+        },
+        "type": "TD",
+        "comment": "Kadarius Toney 5 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+        "score": {
+            "home": 27,
+            "away": 28
+        }
+    },
+    {
+        "quarter": "Fourth",
+        "minute": "9:22",
+        "team": {
+            "id": 17,
+            "name": "Kansas City Chiefs",
+            "logo": "https://media-3.api-sports.io/american-football/teams/17.png"
+        },
+        "player": {
+            "id": 1207,
+            "name": "Skyy Moore",
+            "image": "https://media.api-sports.io/american-football/players/1207.png"
+        },
+        "type": "TD",
+        "comment": "Skyy Moore 4 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+        "score": {
+            "home": 27,
+            "away": 35
+        }
+    },
+    {
+        "quarter": "Fourth",
+        "minute": "5:15",
+        "team": {
+            "id": 12,
+            "name": "Philadelphia Eagles",
+            "logo": "https://media-3.api-sports.io/american-football/teams/12.png"
+        },
+        "player": {
+            "id": 830,
+            "name": "Jalen Hurts",
+            "image": "https://media-3.api-sports.io/american-football/players/830.png"
+        },
+        "type": "TD",
+        "comment": "Jalen Hurts 2 Yd Run (Jalen Hurts Run for Two-Point Conversion)",
+        "score": {
+            "home": 35,
+            "away": 35
+        }
+    },
+    {
+        "quarter": "Fourth",
+        "minute": "0:08",
+        "team": {
+            "id": 17,
+            "name": "Kansas City Chiefs",
+            "logo": "https://media.api-sports.io/american-football/teams/17.png"
+        },
+        "player": {
+            "id": 1256,
+            "name": "Harrison Butker",
+            "image": "https://media-3.api-sports.io/american-football/players/1256.png"
+        },
+        "type": "FG",
+        "comment": "Harrison Butker 27 Yd Field Goal",
+        "score": {
+            "home": 35,
+            "away": 38
+        }
+    }
+]
