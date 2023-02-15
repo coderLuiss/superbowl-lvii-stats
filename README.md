@@ -57,8 +57,12 @@ history > cli-backup.txt
 ```
 git commit -a -m "added cli history"
 ```
-17. Take a screenshot of your codespace and submit to canvas!
-18. 🎉🎉🎉
+18. **Push** your commits from your (remote) codespace to the (origin) main repository in GitHub by typing the following command into your terminal:
+```
+git push origin main
+```
+19. Take a screenshot of your codespace and submit to canvas!
+20. 🎉🎉🎉
 
 # You just learned how to:
 ✅ Create a codespace on GitHub
@@ -72,3 +76,5 @@ git commit -a -m "added cli history"
 ✅ Swith branches with git
 
 ✅ Merge branches with git
+
+✅ Push changes to a repository in GitHub
