@@ -6,11 +6,11 @@ Students will be able to demonstrate an understanding of github fundamentals by 
 
 Super Bowl LVII averaged 113 million viewers and was one of the most exciting games in Super Bowl history. It was only the 4th time that a team came back from a 10 point defecit to win the championship game.
 
-For this project you're going to clone a repository that contains a command-line utility to print all of the touchdowns and field goals from Super Bowl LVII in your terminal (or console).
+For this project I've cloned this repository for you that contains a command-line utility to print all of the touchdowns and field goals from Super Bowl LVII in your terminal (or console). You will run and inspect the code, then create a new branch and update the code to print the name of the winning team.  Finally, you will merge your branch back into the main one.
 
 # Project Requirements 👷
-1. Open this repo on a new **codespace** by clicking on the `< > Code` button (above) then selecting the **Codespaces** tab and clicking on `+` or **Create codespace on main** (where `main` is the name of the default branch)
-2. Open the Terminal tab in your codespace by clicking on the **hamburger icon** at the top-left, then clicking on **View** and then **Terminal**. The terminal may already be open by default.
+1. Open this repo in a new **codespace** by clicking on the `< > Code` button (above) then selecting the **Codespaces** tab and clicking on `+` or **Create codespace on main** (where `main` is the name of the default branch)
+2. Open the Terminal in your codespace by clicking on the **hamburger icon** at the top-left, then clicking on **View** and then **Terminal**. The terminal may already be open by default.
 3. The **Explorer** (on the left side of your codespace) lists all of the project files and directories. You can also type `ls -al` into your terminal to see the file structure there as well. 
 4. Execute (run) the project code by typing either of the following commands into your terminal:
 ```
