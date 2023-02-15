@@ -51,7 +51,7 @@ git merge "new-feature"
 15. Notice that your code now appears in your `main` branch.
 16. Backup your CLI history to submit with your assignment by typing the following command into your terminal:
 ```
-history > last.firstname-cli.txt
+history > cli-backup.txt
 ```
 17. Commit your cli history to the `main` branch by typing the following command into your terminal:
 ```
