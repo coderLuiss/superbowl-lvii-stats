@@ -15,6 +15,7 @@ const run = async () => {
                     '\ncomment: ', event.comment, 
                     '\nscore: ', event.score.away, ' - ', event.score.home)
     })
+    console.log("Chiefs win the Superbowl!");
 }
 
 run();
