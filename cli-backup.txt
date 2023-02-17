@@ -1,1 +1,13 @@
-
+    1  npm start
+    2  git checkout -b "new feature
+    3  git checkout -b "new feature"
+    4  git checkout -b "new-feature"
+    5  git commit -a -m "added victory message"
+    6  git checkout "main"
+    7  git checkout "new-feature"
+    8  npm start
+    9  git merge "new-feature"
+   10  git checkout main
+   11  git checkout "main"
+   12  git merge "new-feature"
+   13  history > cli-backup.txt
